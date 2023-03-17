@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "애근파파 블로그"
+title                    : "근로그"
 title_separator          : "|"
 subtitle                 : "All log"
 name                     : "Keun"
-description              : "모든 것을 자유롭게 기록하는 공간"
+description              : "✏ 모든 것을 자유롭게 기록하는 공간"
 url                      : "https://HKYoo95.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "KeunLog."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "모든 것을 자유롭게 기록하는 공간"
+  bio              : "💻 모든 것을 자유롭게 기록하는 공간"
   location         : "South Korea"
   email            :
   links:
